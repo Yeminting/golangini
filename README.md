@@ -1,1 +1,1 @@
-# golangini
+# go parse ini file
